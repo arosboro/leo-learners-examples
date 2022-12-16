@@ -1,0 +1,10 @@
+{
+    "program": "auction.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpDNiRTRLpcxKcY7kEVRXL2ChLciqE9MG5y9MNhVDgcLgQ",
+        "address": "aleo1m05yan7r3mheqqmsd8mwwum4zdcljlh7z88m7g7e632wyd84pc8qeys2ca"
+    },
+    "license": "MIT"
+}
