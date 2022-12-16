@@ -11,7 +11,7 @@ program interest.aleo {
     transition calculate(principle: u32, public rate: u32) -> u32 {
         let amount: u32 = principle;
         for i: u8 in 0u8..10u8 {
-            amount += amount * (rate / 100u32);
+            amount += (amount * rate) / 100u32;
         }
         return amount;
     }
