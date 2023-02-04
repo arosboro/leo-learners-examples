@@ -1,0 +1,10 @@
+{
+    "program": "tic_tac_toe.aleo",
+    "version": "0.0.0",
+    "description": "A game to play tic-tac-toe on the Aleo blockchain.",
+    "development": {
+        "private_key": "APrivateKey1zkp7mv21RLHLKC1wQjbVigZzgesJD1tfjHQQK42xYwpdBTn",
+        "address": "aleo1elchhpltwdvnlr6m08x8ffsx05jm03teu9kfynccs0p8s589vg8q0p36nm"
+    },
+    "license": "MIT"
+}
